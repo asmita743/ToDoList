@@ -1,7 +1,7 @@
-Full stack Project:To Do List 
+Full stack Project: To Do List 
 
-Frontend:react.js
+Frontend: react.js
 
-Backend:node.js
+Backend: node.js
 
-Database:Mongodb 
+Database: Mongodb 
